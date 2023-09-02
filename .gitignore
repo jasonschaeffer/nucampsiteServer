@@ -3,3 +3,4 @@ server.key
 server.cert
 bin/server.key
 bin/server.cert
+config.js
